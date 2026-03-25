@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>MRROHIT SIGNAL</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>MRROHIT SIGNAL 🔥</h1>
+
+<p>High Accuracy Trading Indicator</p>
+
+<button onclick="showPage('pricing')">
+Get Access
+</button>
+
+</header>
+
+
+<nav>
+
+<button onclick="showPage('home')">
+Home
+</button>
+
+<button onclick="showPage('pricing')">
+Pricing
+</button>
+
+<button onclick="showPage('login')">
+Login
+</button>
+
+<button onclick="showPage('signup')">
+Signup
+</button>
+
+</nav>
+
+
+
+<section id="home" class="page">
+
+<h2>Why MRROHIT SIGNAL</h2>
+
+<p>
+
+Smart Buy & Sell Signals  
+Sniper Entry Zones  
+Auto TP SL Levels  
+Works on Gold, BTC, Forex  
+High Accuracy Filters  
+
+</p>
+
+
+<h3>Features</h3>
+
+<ul>
+
+<li>Non repaint signals</li>
+
+<li>Sniper precision entries</li>
+
+<li>Dashboard with TP SL</li>
+
+<li>Auto trading compatible</li>
+
+<li>Beginner friendly</li>
+
+</ul>
+
+</section>
+
+
+
+<section id="pricing" class="page">
+
+<h2>Pricing</h2>
+
+<div class="card">
+
+<h3>Basic</h3>
+
+<p>$29</p>
+
+<p>MRROHIT SIGNAL indicator</p>
+
+<button>
+Buy Now
+</button>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Pro</h3>
+
+<p>$49</p>
+
+<p>
+
+Gold Sniper version  
+BTC settings  
+Auto trading guide  
+
+</p>
+
+<button>
+Buy Now
+</button>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>VIP</h3>
+
+<p>$99</p>
+
+<p>
+
+All indicators  
+Future updates  
+Priority support  
+
+</p>
+
+<button>
+Buy Now
+</button>
+
+</div>
+
+
+</section>
+
+
+
+<section id="login" class="page">
+
+<h2>Login</h2>
+
+<input placeholder="Username">
+
+<input type="password"
+placeholder="Password">
+
+<button>
+Login
+</button>
+
+</section>
+
+
+
+<section id="signup" class="page">
+
+<h2>Create Account</h2>
+
+<input placeholder="Username">
+
+<input placeholder="Email">
+
+<input type="password"
+placeholder="Password">
+
+<button>
+Signup
+</button>
+
+</section>
+
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
